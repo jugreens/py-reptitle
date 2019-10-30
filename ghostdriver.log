@@ -1,0 +1,141 @@
+[INFO  - 2019-10-30T07:36:57.285Z] GhostDriver - Main - running on port 64055
+[INFO  - 2019-10-30T07:37:01.677Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:37:01.677Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[INFO  - 2019-10-30T07:37:01.677Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-10-30T07:37:01.677Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0fd7ac20-fae8-11e9-b557-4328099d84e6
+[INFO  - 2019-10-30T07:37:06.648Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:37:06.648Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:37:09.378Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421029340
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:10.676Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421030662
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:12.010Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421031983
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:13.353Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421033314
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:14.712Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421034659
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:16.050Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421036017
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:17.404Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421037356
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:18.754Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421038717
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:37:23.193Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:37:23.193Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:37:25.567Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421045524
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:30.028Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421049995
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:34.720Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421054657
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:37:42.698Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:37:42.698Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:37:44.943Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421064902
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:49.351Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421069306
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:37:54.233Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421074211
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:38:03.210Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:38:03.210Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:38:05.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421085538
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:38:09.734Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421089684
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:38:14.532Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421094514
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:38:23.419Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:38:23.420Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:38:26.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421106161
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:38:30.577Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421110524
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:38:35.236Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421115226
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:38:44.260Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:38:44.260Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:38:46.341Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421126289
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:38:50.642Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421130607
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:38:55.465Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421135336
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:39:04.204Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:39:04.205Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:39:06.574Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421146517
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:39:10.900Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421150896
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:39:15.545Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421155465
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:39:24.336Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:39:24.336Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:39:26.542Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421166484
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:39:31.071Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421171054
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:39:35.896Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421175883
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:39:44.998Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:39:44.998Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:39:47.275Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421187267
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:39:51.625Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421191600
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:39:56.597Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421196570
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:40:05.541Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:40:05.542Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:40:08.438Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421208403
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:40:11.409Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421211407
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:40:15.377Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421214809
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-10-30T07:40:23.518Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-10-30T07:40:23.519Z] Session [0fd7ac20-fae8-11e9-b557-4328099d84e6] - page.customHeaders:  - {}
+[ERROR - 2019-10-30T07:40:25.792Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421225753
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-10-30T07:40:29.929Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1572421228914
+
+  phantomjs://platform/console++.js:263 in error
+Fatal Windows exception, code 0xc0000005.
+PhantomJS has crashed. Please read the bug reporting guide at
+<http://phantomjs.org/bug-reporting.html> and file a bug report.
